@@ -1,0 +1,17 @@
+include LICENSE
+include README.md
+include pyproject.toml
+
+recursive-include koncile_sdk *
+
+# Exclude examples and sample files from the package
+recursive-exclude examples *
+recursive-exclude files *
+recursive-exclude tests *
+
+# Exclude development files
+global-exclude *.py[cod]
+global-exclude __pycache__
+global-exclude *.so
+global-exclude .DS_Store
+global-exclude *.egg-info
