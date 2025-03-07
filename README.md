@@ -95,4 +95,4 @@ For support inquiries, please contact support@koncile.ai.
 
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
-© 2024 Koncile. All rights reserved.
+© 2025 Koncile. All rights reserved.
