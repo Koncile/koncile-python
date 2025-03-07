@@ -25,7 +25,7 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/koncile/koncile-sdk"
+Homepage = "https://github.com/Koncile/koncile-python"
 Documentation = "https://docs.koncile.ai"
-Repository = "https://github.com/koncile/koncile-sdk"
-"Issue Tracker" = "https://github.com/koncile/koncile-sdk/issues"
+Repository = "https://github.com/Koncile/koncile-python"
+"Issue Tracker" = "https://github.com/Koncile/koncile-python/issues"

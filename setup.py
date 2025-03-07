@@ -12,7 +12,7 @@ setup(
     description="Official Python SDK for Koncile API",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/koncile/koncile-sdk",
+    url="https://github.com/Koncile/koncile-python",
     packages=find_packages(exclude=["examples*", "tests*"]),
     classifiers=[
         "Development Status :: 4 - Beta",
@@ -29,7 +29,7 @@ setup(
     ],
     project_urls={
         "Documentation": "https://docs.koncile.ai",
-        "Source": "https://github.com/koncile/koncile-sdk",
-        "Issue Tracker": "https://github.com/koncile/koncile-sdk/issues",
+        "Source": "https://github.com/Koncile/koncile-python",
+        "Issue Tracker": "https://github.com/Koncile/koncile-python/issues",
     },
 )
